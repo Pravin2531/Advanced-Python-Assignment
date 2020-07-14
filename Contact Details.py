@@ -1,0 +1,10 @@
+
+Name = input("Please enter your name ")
+Age = input("Please enter your age ")
+Course = input("Please enter your course ")
+Contact = input("Please enter your mobile number ")
+print("\n")
+print("The name you had entered", Name)
+print("The age you had entered", Age)
+print("The course you had entered", Course)
+print("The mobile number you had entered", Contact)
